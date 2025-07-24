@@ -1,0 +1,38 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Database files
+*.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Development files
+attached_assets/
+collected_images/
+character_images/
+
+# Test files
+test_*.png
+test_*.js
+*_broken.js
+
+# Cache files
+*.cache

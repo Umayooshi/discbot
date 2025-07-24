@@ -1,0 +1,11178 @@
+{
+  "kagome_higurashi_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "inuyasha_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "winry_rockbell_fullmetal_alchemist": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nami_one_piece": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "emilia_re:zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kuwabara_kazuma_yu_yu_hakusho": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "edward_elric_fullmetal_alchemist": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sasuke_uchiha_naruto": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "zoro_one_piece": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "alphonse_elric_fullmetal_alchemist": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "erza_scarlet_fairy_tail": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "makima_chainsaw_man": {
+    "currentVersion": "A",
+    "printCount": 45,
+    "versions": {
+      "A": 45,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nobara_jujutsu_kaisen": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "temple_architectural": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rimuru_that_time_i_got_reincarnated_as_a_slime": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sasuke_naruto": {
+    "currentVersion": "A",
+    "printCount": 5,
+    "versions": {
+      "A": 5,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "l_death_note": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "natsu_fairy_tail": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "goku_dragon_ball": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rem_re:zero": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "light_yagami_death_note": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nezuko_demon_slayer": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tanjiro_demon_slayer": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "luffy_one_piece": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "vegeta_dragon_ball": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saber_fate/stay_night": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "naruto_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "naruto_uzumaki_naruto": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "goku_dragon_ball_z": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "vegeta_dragon_ball_z": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tanjiro_kamado_demon_slayer": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukina_9186_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "riku_9555_kitsune_legends": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaze_74ad_kitsune_legends": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mei_5852_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rena_7676_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaze_7e82_kitsune_legends": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shiro_2bf0_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "taro_6ff3_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shiro_0b5b_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kei_b3af_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuto_eab6_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "daisuke_198a_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "iris_1aee_neko_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuuma_aaf1_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sho_198a_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kotone_e360_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kazuki_5d01_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "riku_d1ec_kitsune_legends": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rui_dedc_kitsune_legends": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuki_9e63_neko_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hinata_934b_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "satoshi_60cc_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiroshi_7a24_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kai_2441_kitsune_legends": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukina_24a9_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "zara_732b_neko_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tender_rgbx_handhold_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akira_252f_neko_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakura_f563_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nova_386a_neko_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rei_80e2_neko_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sho_dfcb_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kira_8421_neko_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kento_b825_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miyuki_2f50_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rin_936f_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaito_d18c_husbando_academy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rei_2577_neko_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mei_b8cc_waifu_collection": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaze_1cd6_kitsune_legends": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ichigo_kurosaki_bleach": {
+    "currentVersion": "A",
+    "printCount": 10,
+    "versions": {
+      "A": 10,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hatake,_kakashi_naruto:_shippuden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "abdullah_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "roronoa_zoro_one_piece": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "natsu_dragneel_fairy_tail": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "light_death_note": {
+    "currentVersion": "A",
+    "printCount": 5,
+    "versions": {
+      "A": 5,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chopper_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mikasa_attack_on_titan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jinbe_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kakashi_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakura_naruto": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "franky_one_piece": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "asuna_sword_art_online": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kurama_yu_yu_hakusho": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eren_attack_on_titan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sanji_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "edward_elric_fullmetal_alchemist:_brotherhood": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "wakana_gojo_my_dress-up_darling": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nia_teppelin_gurren_lagann": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "simon_gurren_lagann": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "langa_hasegawa_sk8_the_infinity": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sagiri_hell’s_paradise": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "bishamon_noragami": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "michiru_kagemori_bna": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aguero_agnis_khun_tower_of_god": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "decim_death_parade": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "remi_ayasaki_horimiya": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nagisa_shiota_assassination_classroom": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "himeko_inaba_kokoro_connect": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fern_frieren:_beyond_journey’s_end": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shoko_komi_komi_can’t_communicate": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "arisu_sakayanagi_classroom_of_the_elite": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rosinante_donquixote_one_piece": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tomoe_kamisama_kiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryo_yamada_bocchi_the_rock!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "renji_abarai_bleach": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "byakuya_kuchiki_bleach": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "black☆star_soul_eater": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "inori_yuzuriha_guilty_crown": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "vladilena_milizé_86_eighty-six": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "minori_kushieda_toradora!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "diane_the_seven_deadly_sins": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tobi_naruto:_shippuden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaworu_nagisa_neon_genesis_evangelion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryuko_matoi_kill_la_kill": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aiko_tanaka_unknown_series": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shin-ah_yona_of_the_dawn": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kallen_stadtfeld_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shizuo_heiwajima_durarara!!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakura_yamauchi_i_want_to_eat_your_pancreas": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "itachi_uchiha_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shigure_soma_fruits_basket_(2019)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kenshin_himura_rurouni_kenshin": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tamaki_suo_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuri_nakamura_angel_beats!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gray_fullbuster_fairy_tail": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nagisa_furukawa_clannad": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "phil_the_promised_neverland": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takina_inoe_lycoris_recoil": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nana_oosaki_nana": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miyako_shikimori_shikimori's_not_just_a_cutie": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "perona_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsumugi_kotobuki_k-on!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nino_nakano_the_quintessential_quintuplets": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "wakatoshi_ushijima_haikyu!!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "arthur_boyle_fire_force": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "re-l_mayer_ergo_proxy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "josuke_higashikata_jojo's_bizarre_adventure:_diamond_is_unbreakable": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kishibe_chainsaw_man": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rem_re:zero_-starting_life_in_another_world-": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "krista_lenz_attack_on_titan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "schwi_dola_no_game,_no_life_zero": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tamaki_kotatsu_fire_force": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mayuri_shiina_steins;gate": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rock_lee_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suika_dr._stone": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yusuke_urameshi_yu_yu_hakusho:_ghostfiles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "koshi_sugawara_haikyu!!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chtholly_nota_seniorios_worldend:_what_are_you_doing_at_the_end_of_the_world?_are_you_busy?_will_you_save_us?": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aigis_persona_3_the_movie:_#1_spring_of_birth": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "satsuki_kiryuin_kill_la_kill": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakura_mato_fate/zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "wangji_lan_the_founder_of_diabolism": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rensuke_kunigami_blue_lock": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "punpun_onodera_unknown_series": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "satan_jacob_the_devil_is_a_part-timer!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hawk_the_seven_deadly_sins": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gilbert_bogainvillea_violet_evergarden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "alicia_melchiott_valkyria_chronicles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "anzu_hinamatsuri": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lucy_heartfilia_fairy_tail": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toka_kirishima_tokyo_ghoul": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "siesta_the_detective_is_already_dead": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "asta_black_clover": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "wiz_konosuba_-god's_blessing_on_this_wonderful_world!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyo_soma_fruits_basket_(2019)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nana_komatsu_nana": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "teach_marshall_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "loise_françoise_le_blanc_de_la_vallière_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mako_mankanshoku_kill_la_kill": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kobeni_higashiyama_chainsaw_man": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toko_fukawa_danganronpa:_the_animation": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "farnese_de_vandimion_berserk_(2016)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nico_robin_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gin_into_the_forest_of_fireflies'_light": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tatsuya_shiba_the_irregular_at_magic_high_school": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sato_ajin:_demi-human": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shiro_deadman_wonderland": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "coco_witch_hat_atelier": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chizuru_ichinose_rent-a-girlfriend": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hitagi_senjogahara_bakemonogatari": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "roran_the_apothecary_diaries": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "itsuki_nakano_the_quintessential_quintuplets": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "dio_brando_jojo's_bizarre_adventure_(tv)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kintaro_ooe_golden_boy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "neiru_aonuma_wonder_egg_priority": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hikaru_kusakabe_doukyuusei_-classmates-": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nausicaä_nausicaä_of_the_valley_of_the_wind": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miko_iino_kaguya-sama:_love_is_war": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "zero_kiryu_vampire_knight": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tomoyo_sakagami_clannad": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "monokuma_danganronpa:_the_animation": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mio_naganohara_nichijou_-_my_ordinary_life": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "leone_abbacchio_jojo's_bizarre_adventure:_golden_wind": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lum_case_closed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "abel_nightroad_trinity_blood": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hinata_hyuga_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "seishiro_nagi_blue_lock": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sumi_sakurasawa_rent-a-girlfriend": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "osaragi_sakamoto_days": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kanade_tachibana_angel_beats!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "junko_enoshima_danganronpa:_the_animation": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yomi_isayama_ga-rei-zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mai_minakami_nichijou_-_my_ordinary_life": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saika_totsuka_my_teen_romantic_comedy_snafu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saki_ayase_days_with_my_stepsister": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuki_soma_fruits_basket_(2019)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yoko_littner_gurren_lagann": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "puck_berserk_(2016)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsukasa_yuzaki_tonikawa:_over_the_moon_for_you": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sasha_blose_attack_on_titan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "alice_nakiri_food_wars!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kojiro_nanjo_sk8_the_infinity": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takehito_morokuzu_prison_school": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "renge_miyauchi_non_non_biyori": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "utena_tenjo_revolutionary_girl_utena": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "artoria_pendragon_fate/zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fran_reincarnated_as_a_sword": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "doppo_kunikida_bungo_stray_dogs": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kanao_tsuyuri_demon_slayer:_kimetsu_no_yaiba": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yami_sukehiro_black_clover": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rebecca_cyberpunk:_edgerunners": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "joichiro_yukihira_food_wars!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "king_the_seven_deadly_sins": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "misaki_takasaki_love_and_lies": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gugu_to_your_eternity": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hatsuharu_soma_fruits_basket_(2019)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fushi_to_your_eternity": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "runa_yomozuki_kakegurui": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mikoto_mikoshiba__monthly_girls'_nozaki-kun": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "xenovia_quarta_high_school_dxd_new": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yu_koito_bloom_into_you": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kayden_break_eleceed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ayato_kirishima_tokyo_ghoul": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "reze_chainsaw_man": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tetsuya_kuroko_assassination_classroom_2": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "diablo_that_time_i_got_reincarnated_as_a_slime": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "william_moriarty_moriarty_the_patriot": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "komachi_hikigaya_my_teen_romantic_comedy_snafu": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "makoto_tsukimoto_ping_pong_the_animation": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsukasa_shishio_dr._stone": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kuma_bartholomew_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tooru_honda_fruits_basket_(2019)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ugetsu_murata_given": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "frederica_bernkastel_when_they_cry_kai": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kenzo_tenma_monster": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "musashi_miyamoto_unknown_series": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shiori_sakurazaka_more_than_a_married_couple,_but_not_lovers.": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saki_yumihara_in/spectre": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mio_akiyama_k-on!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toma_kamijo_a_certain_magical_index": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tao_hu_unknown_series": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "bentham_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "thors_snorresson_vinland_saga": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eren_yeager_attack_on_titan": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "levi_ackerman_attack_on_titan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tomoya_okazaki_clannad": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "zabuza_momochi_naruto": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saya_otonashi_blood+": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yumeko_jabami_kakegurui": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "filo_the_rising_of_the_shield_hero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yasuho_hirose_unknown_series": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaoruko_waguri_the_fragrant_flower_blooms_with_dignity": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shuna_that_time_i_got_reincarnated_as_a_slime": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ranga_that_time_i_got_reincarnated_as_a_slime": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "haruki_shiga_i_want_to_eat_your_pancreas": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lois_beastars": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rei_ayanami_neon_genesis_evangelion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tomoko_kuroki_watamote:_no_matter_how_i_look_at_it,_it's_you_guys'_fault_i'm_not_popular!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "misaki_nakahara_welcome_to_the_n-h-k": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kiruko_tengoku_daimakyo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "stocking_anarchy_panty_&_stocking_with_garterbelt": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakamoto_nichijou_-_my_ordinary_life": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kenpachi_zaraki_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "michael_kaiser_blue_lock_season_2": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "adam_record_of_ragnarok": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shu_tsukiyama_tokyo_ghoul": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takashi_natsume_natsume's_book_of_friends_season_1": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinako_morinome_sing_\"yesterday\"_for_me": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aoba_suzukaze_new_game!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yoichi_isagi_blue_lock": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mirio_togata_my_hero_academia_season_3": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shotaro_kaneda_akira": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kenma_kozume_haikyu!!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "accelerator_a_certain_magical_index": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mirai_kuriyama_beyond_the_boundary": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "calcifer_howl‘s_moving_castle": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ling_yao_fullmetal_alchemist:_brotherhood": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsukasa_yugi__toilet-bound_hanako-kun": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "retsu_unohana_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saki_nikaido_zombie_land_saga": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kamille_bidan_mobile_suit_zeta_gundam": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sachiko_fujinuma_erased": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "honoka_konoe_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "noriko_nishizaki_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shogo_asagi_tsubasa_reservoir_chronicle": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hayate_prétear:_the_new_legend_of_snow_white": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ren_maaka_karin:_chibi_vampire": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "stella_lossier_mobile_suit_gundam_seed_destiny": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "allen_walker_d.gray-man": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mai_tokiha_my-hime": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akiho_sudo_iriya_no_sora,_ufo_no_natsu": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mikoto_yutaka_princess_princess": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "illyasviel_von_einzbern_carnival_phantasm": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mana_uraga_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toda_shonen_onmyoji": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "talia_gladys_mobile_suit_gundam_seed_destiny": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kris_kristopher_battle_athletes": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "meno_kurashina_d.n.angel": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "christopher_armalite_scrapped_princess": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryo_bakura_yu-gi-oh!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rena_ryugu_when_they_cry": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shigeru_kanmuri_yakitate!!_japan": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kiyomi_kawahara_mahoromatic:_automatic_maiden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kenta_usui_karin:_chibi_vampire": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "seijuro_shin_eyeshield_21": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "narumi_kure_karas": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kakyo_kuzuki_x_(tv)": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "karen_sonomiya_sky_girls": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "maria_graceburt_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "éclair_tonnerre_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "samon_takamizawa_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "makoto_sawatari_kanon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mei_kusakabe_my_neighbor_totoro": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaoru_koganei_flame_of_recca": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yzak_jole_mobile_suit_gundam_seed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "seishiro_sakurazuka_tokyo_babylon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "montmorency_margarita_la_fère_de_montmorency_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akari_kanzaki_battle_athletes": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shizuku_tsukishima_whisper_of_the_heart": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "drosselmeyer_princess_tutu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ichino_yanagida_battle_athletes_victory": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "daikichi_komusubi_eyeshield_21": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "markl_howl‘s_moving_castle": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lalah_sune_gundam_evolve": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toshimaru_yoshida_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "seiji_amasawa_whisper_of_the_heart": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mitsuki_hayase_rumbling_hearts": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "franz_d'epinay_gankutsuou:_the_count_of_monte_cristo": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mui_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "arashi_kishu_tsubasa_reservoir_chronicle": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tony_tony_chopper_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shiro_emiya_carnival_phantasm": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "envy_fullmetal_alchemist:_brotherhood": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nate_river_death_note": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "motoharu_yano_we_were_there": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "di_gi_charat_di_gi_charat": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yami_yugi_yu☆gi☆oh!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shonen_angel's_egg": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "guiche_de_gramont_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shino_.hack//g.u._returner": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "d_vampire_hunter_d:_bloodlust": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chisame_hasegawa_negima!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sophie_hatter_howls_moving_castle": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "setsuko_grave_of_the_fireflies": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinsuke_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "midori_my-otome": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "maya_ibuki_neon_genesis_evangelion": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "robin_sena_witch_hunter_robin": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hideki_motosuwa_chobits": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sayuri_kurata_kanon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakura_mato_carnival_phantasm": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shion_sonozaki_when_they_cry": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryoji_kaji_evangelion:_2.0_you_can_(not)_advance": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "genzo_hayashi_binbou_shimai_monogatari": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lucy_elfen_lied": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "alice_l._malvin_pumpkin_scissors": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hatsuharu_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shizuka_asada_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "reika_mishima_rahxephon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "monte-cristo_hakushaku_gankutsuou:_the_count_of_monte_cristo": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hachisuke_takamizo_happiness!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "haruki_hanai_school_rumble": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinku_rozen_maiden": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kunikida_the_disappearance_of_haruhi_suzumiya": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mitsuki_koyama_looking_for_the_full_moon": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shido_fuyuki_getbackers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "train_heartnet_black_cat": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mayumi_thyme_shuffle!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "migeira_samurai_deeper_kyo": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryuogi_kusunoki_haru_no_ashioto_the_movie:_ourin_dakkan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kunihiro_suizenji_iriya_no_sora,_ufo_no_natsu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "keitaro_urashima_love_hina": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hisako_kajiura_otoboku:_maidens_are_falling_for_me": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saki_hanajima_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "zodd_berserk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "natsumi_murakami_negima!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "andreas_darlton_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ishimatsu_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "primula_shuffle!": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuka_fujikawa_tokimeki_memorial": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "wufei_chang_mobile_suit_gundam_wing": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tendo_kodzunu_tokyo_majin": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsubasa_destiny_of_the_shrine_maiden": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kururu_sgt._frog": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yu_sakurano_haru_no_ashioto_the_movie:_ourin_dakkan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "heizo_tachibana_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryoma_echizen_prince_of_tennis_ii": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tomoka_lana_jude_girls_bravo": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "arika_yumemiya_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuya_daigo_tokyo_majin": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "cronos_de_medici_yu-gi-oh!_gx": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akane_tendo_ranma": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yoruichi_shihoin_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nobue_ito_strawberry_marshmallow": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kagura_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "milly_ashford_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukino_azusagawa_yakitate!!_japan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yahiko_myojin_samurai_x_special": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ku_fei_mahou_sensei_negima!_anime_final": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nagomi_fujikura_haru_no_ashioto_the_movie:_ourin_dakkan": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "krad_d.n.angel": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sai_saici_mobile_fighter_g_gundam": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "melfina_outlaw_star": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "asa_shigure_shuffle!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "laplace_no_ma_rozen_maiden:_ouvertre": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tohofuhai_master_asia_mobile_fighter_g_gundam": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kei_prtear:_the_new_legend_of_snow_white": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rosalie_claudel_my-otome": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miyu_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaede_fuyo_shuffle!": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akane_suzumiya_akane_maniax": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mawata_awayuki_prtear:_the_new_legend_of_snow_white": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "goshinki_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aoi_senoh_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryushi_shiratori_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "iktidal_in_a_distant_time_ova": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sango_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jin_takamizawa_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyo_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukimura_sanada_samurai_deeper_kyo": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryutaro_mine_nodame_cantabile": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takuro_senba_di_gi_charat:_winter_garden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nagi_da_artai_my-otome": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "izumi_curtis_fullmetal_alchemist": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hanamichi_sakuragi_slam_dunk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "karen_ichijo_school_rumble": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "leorio_paradinight_hunter_x_hunter:_phantom_rouge": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "alyssa_my-otome_zwei": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mika_miyama_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "anri_hiragi_happiness!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kino_dengeki_bunko_2007_movie_festival_special": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "villetta_nu_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "soseiseki_rozen_maiden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sena_izumi_knight_hunters_eternity": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "daisuke_jigen_lupin_iii:_dead_or_alive": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "matsuri_sakuragi_strawberry_marshmallow": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiroshi_karigari_my_dear_marie": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mugen_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eledore_massis_mobile_suit_gundam:_the_08th_ms_team": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nataku_tsubasa:_tokyo_revelations": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kageto_kinoshita_yakitate!!_japan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "revy_black_lagoon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kelly_wong_black_blood_brothers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ted_a._adams_blood+": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shigeo_morishita_hikaru_no_go": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "petite_charat_di_gi_charat": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mishio_amano_kanon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "koga_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "john_brown_ghost_hunt": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "monkey_d._luffy_one_piece": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "makie_sasaki_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sleggar_law_mobile_suit_gundam": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuzuha_utawarerumono": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "masashi_masamune_flcl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nekobasu_my_neighbor_totoro": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "marie_claire_tokyo_majin": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "urtori_utawarerumono": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hayde_tebelin_gankutsuou:_the_count_of_monte_cristo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shiho_huit_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hisashi_mitsui_slam_dunk": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sayoko_kurosaki_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eiri_yuki_gravitation_tv": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chie_hallard_my-otome": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yanagi_sakoshita_flame_of_recca": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "road_kamelot_d.gray-man": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "megumi_momono_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "haruka_armitage_my-otome": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "van_argiano_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "susumu_yamazaki_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "namiko_tsuki_girl_meets_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shana_dengeki_bunko_2007_movie_festival_special": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nguyen_bao_my-otome_zwei": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "murrue_ramius_mobile_suit_gundam_seed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "dortin_orphen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ubik_berserk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shigure_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nami_sato_gift:_eternal_rainbow": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nanako_aoi_haru_no_ashioto_the_movie:_ourin_dakkan": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shuhei_chiaki_mirage_of_blaze": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rokuro_okajima_black_lagoon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akitaka_shima_sky_girls": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "seichiro_aoki_x_(tv)": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kazuma_kuwabara_yu_yu_hakusho:_the_movie": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "momo_hinamori_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yupa_nausica_of_the_valley_of_the_wind": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "longueville_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "natsuhiko_taki_eyeshield_21": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lisianthus_eustoma_shuffle!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "brandon_heat_gungrave": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kurama_yu_yu_hakusho:_ghostfiles": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "koboshi_uematsu_pita-ten": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aisha_clanclan_outlaw_star": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eustoma_shuffle!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "taiga_fujimura_fate/stay_night": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yayoi_shioiri_loveless": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kirei_kotomine_fate/zero": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kimihiro_tsutsui_hikaru_no_go": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mikuru_asahina_nyoron!_churuya-san": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nagi_homura_my-hime": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "grimmjow_jaegerjaquez_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kunimitsu_tezuka_prince_of_tennis_ii": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "giroro_sgt._frog": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fuma_mono_x_(tv)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "maria_burst_angel": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fujiko_mine_lupin_iii:_the_secret_of_mamo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "taro_raimon_eyeshield_21": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shawlong_qu_fong_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ginias_sahalin_mobile_suit_gundam:_the_08th_ms_team": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinpachi_nagakura_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "karla_bellini_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "keroro_sgt._frog": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "midland_no_ou_berserk": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rangiku_matsumoto_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ana_coppola_strawberry_marshmallow": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tenma_tsukamoto_school_rumble": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "renge_hoshakuji_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hinako_tsuwabuki_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "anko_mitarashi_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "asuka_langley_soryu_evangelion:_2.0_you_can_(not)_advance": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jaken_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chevreuse_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shoko_nogami_living_for_the_day_after_tomorrow": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyo_samurai_deeper_kyo": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "volkan_orphen": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "judai_yuki_yu-gi-oh!_gx": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kambei_shimada_samurai_7": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gudrif_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suzu_edogawa_tactics": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "konoka_konoe_negima!": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "naraku_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "komui_le_d.gray-man": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kohzo_fuyutsuki_evangelion:_1.0_you_are_(not)_alone": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinichiro_tamaki_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "otoha_sakurano_sky_girls": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ritsuko_akagi_evangelion:_1.0_you_are_(not)_alone": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "wreathlit_noel_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "naoto_kozuki_code_geass:_nightmare_of_nunnally": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aston_collins_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "dutch_black_lagoon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuzuriha_nekoi_tsubasa:_tokyo_revelations": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryu_jose_mobile_suit_gundam": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "zelman_clock_black_blood_brothers": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "charden_flamberg_black_cat": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hanzo_sumomomo_momomo:_chijou_saikyou_no_yome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiroshi_nakano_gravitation_tv": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryu_amakusa_detective_school_q": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "heisuke_todo_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tatsuma_hiyu_tokyo_majin": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "alice_carroll_aria_the_animation": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ritsu_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kei_hiwatari_d.n.angel": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "henrietta_de_tristain_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rin_todoroki_mahoromatic:_automatic_maiden": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "katsuya_jonochi_yugioh!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kazuma_azuma_yakitate!!_japan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suguru_fujisaki_gravitation_tv": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akiko_minase_kanon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "megumi_minami_detective_school_q": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yurine_karas": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "vash_the_stampede_trigun": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "soya_togo_sky_girls": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kuretake_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "arashi_nagase_paradise_kiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jiro_yoshidayama_school_rumble": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "haku_spirited_away": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaede_nagase_negima!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "misuzu_kamio_air": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "frau_bow_mobile_suit_gundam_i": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eruru_utawarerumono": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hikari_horaki_evangelion:_2.0_you_can_(not)_advance": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "osuzu_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "bunta_ogura_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ahiru_arima_princess_tutu": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "natsuki_kuga_my-hime": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nolt_marcus_vampire_hunter_d:_bloodlust": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toru_suzushima_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "george_koizumi_paradise_kiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "usopp_one_piece": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiyori_sarugaki_bleach": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "karin_maka_karin:_chibi_vampire": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lloyd_asplund_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kenshin_himura_samurai_x_dvd-box_special_ending": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nicol_amarfi_mobile_suit_gundam_seed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "itta_suzuki_tokimeki_memorial": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chan_black_blood_brothers": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nerine_shuffle!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukito_kunisaki_air": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tatsuki_arisawa_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rip_van_winkle_hellsing_ultimate": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaede_rukawa_slam_dunk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kurotowa_nausica_of_the_valley_of_the_wind": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "henry_marker_karin:_chibi_vampire": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuta_kirishima_ultramaniac_-_magical_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kurogane_tsubasa_reservoir_chronicle": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sayo_aisaka_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yoshimi_sato_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinji_hirako_bleach": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "d-roy_rinker_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "seiji_ogata_hikaru_no_go": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saya_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kai_nanami_sukisho": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mia_clementis_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyon_no_imoto_the_disappearance_of_haruhi_suzumiya": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "komaki_sakurai_tokyo_majin": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "assistant_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kazuya_krau-xeku_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "amon_witch_hunter_robin": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sven_vollfied_black_cat": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "masaru_aoki_hajime_no_ippo:_the_fighting!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miho_karasuma_witch_hunter_robin": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miyabi_shirogane_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jeremiah_gottwald_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rivalz_cardemonde_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "guts_berserk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takashi_morinozuka_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "buggy_one_piece": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "heinkel_wolfe_hellsing_ultimate": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ginko_mushi-shi": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ein_cowboy_bebop": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hagumi_hanamoto_honey_and_clover": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kensuke_aida_evangelion:_1.0_you_are_(not)_alone": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "alice_eve_black_blood_brothers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaname_oogi_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shannon_casull_scrapped_princess": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "euphemia_li_britannia_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "barbarois_choro_vampire_hunter_d:_bloodlust": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "clovis_la_britannia_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "masataka_takayanagi_tenjho_tenge": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kohei_magical_shopping_arcade_abenobashi": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "motoko_aoyama_love_hina": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakaki_azumanga_daioh": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suzaku_kururugi_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "katz_hawin_mobile_suit_zeta_gundam:_a_new_translation_ii_-_lovers": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "iroha_miyamoto_sumomomo_momomo:_chijou_saikyou_no_yome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hitomi_shinonome_loveless": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mitsune_konno_love_hina": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yasutora_sado_bleach": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuki_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suzu_kitamura_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eisen_in_a_distant_time_ova": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miyuki_sakura_mahoromatic:_automatic_maiden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toboe_wolf's_rain": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "riku_aoba_tokimeki_memorial": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jet_black_cowboy_bebop": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mashira_vampire_hunter_d:_bloodlust": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "asuka_tenjoin_yu-gi-oh!_gx": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaige_legend_of_the_last_labyrinth": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tai_hellsing": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toko_amino_living_for_the_day_after_tomorrow": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "luppi_antenor_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aina_sahalin_mobile_suit_gundam:_the_08th_ms_team": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kira_yamato_mobile_suit_gundam_seed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "cassandra_jill_warlock_black_blood_brothers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukari_kamioka_otoboku:_maidens_are_falling_for_me": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mimiko_katsuragi_black_blood_brothers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "goro_honda_major_s4": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "himiko_kudo_getbackers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tomoe_marguerite_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yutaka_tamaru_the_melancholy_of_haruhi_suzumiya": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "arima_emerson_suzuka": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "domon_kasshu_gundam_evolve": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akari_fujisaki_hikaru_no_go": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kotori_mono_x_(tv)": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "evangeline_athanasia_katherine_mcdowell_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jun_kitagawa_kanon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "joel_goldschmidt_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "makubex_getbackers": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "diva_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rem_saverem_trigun": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ayaka_hatori_d.n.angel": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "benawi_utawarerumono": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sennen_hakushaku_d.gray-man": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "soichi_miyamoto_suzuka": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tonfa_yan_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kanna_air": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukinari_sasaki_girls_bravo": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akane_aikawa_magic_user's_club!_(tv)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miyu_glear_my-hime": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "trowa_barton_mobile_suit_gundam_wing": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "second_hand_of_time_d.n.angel": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "teletha_testarossa_full_metal_panic!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "zazie_rainyday_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tatsuya_asagiri_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "edel_princess_tutu": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eika_ichijo_sky_girls": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chitose_hibiya_chobits": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kozue_aoba_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takeshi_noda_the_gokusen": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "emeraude_magic_knight_rayearth": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saizo_kirigakure_samurai_deeper_kyo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sunao_konoe_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "masaki_edo_gift:_eternal_rainbow": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiei_yu_yu_hakusho:_the_movie": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shin_sawada_the_gokusen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyohei_dojima_tokimeki_memorial": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ccile_cromy_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shirin_in_a_distant_time_ova": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ispector_saehara_d.n.angel": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "seiya_tsukishima_whisper_of_the_heart": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toru_osaragi_girl_meets_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "reiko_katakura_love_you_baby": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "meryl_stryfe_trigun:_badlands_rumble": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chizuru_naba_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kippei_katakura_love_you_baby": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "goemon_ishikawa_xiii_lupin_the_3rd:_blood_seal_of_the_eternal_mermaid": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "cred_diskenth_black_cat": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "amy_burst_angel": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yamada_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ranko_saegusa_binbou_shimai_monogatari": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryusei_johnny_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ulquiorra_cifer_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "uchiha_sasuke_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuzuru_suoh_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mitsuomi_takayanagi_tenjho_tenge": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "omi_tsukiyono_knight_hunters": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "marie_karigari_my_dear_marie": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mahiru_minazuki_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sho_marufuji_yu-gi-oh!_gx": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chrollo_lucilfer_hunter_x_hunter_(2011)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "albert_chamomile_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakura_utsugi_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "satsuki_matsuba_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kikyo_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "layla_hamilton_kaleido_star": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "alexander_anderson_hellsing_ultimate": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kinu_kanisawa_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rad_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nana_shirakawa_suzuka": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "himeko_kurusugawa_destiny_of_the_shrine_maiden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "leopold_scorpse_scrapped_princess": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "pippin_berserk:_the_golden_age_arc_i_-_the_egg_of_the_king": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuzuki_kaede_haru_no_ashioto_the_movie:_ourin_dakkan": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuichi_tate_my-hime": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toka_utawarerumono": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "may_wong_kaleido_star": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sae_sawanoguchi_magic_user's_club!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hevn_getbackers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuzuru_narita_mirage_of_blaze": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "silva_zoldyck_hunter_x_hunter_(2011)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mina_yayoi_tokimeki_memorial": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "juliet_nao_zhang_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lunamaria_hawke_mobile_suit_gundam_seed_destiny": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ayuki_mari_girl_meets_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takumi_hayami_sky_girls": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "bob_makihara_tenjho_tenge": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "megumi_matsumoto_suzuka": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "urumi_kanzaki_gto:_great_teacher_onizuka": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiroshi_mitarai_pita-ten": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryuzaki_princess_princess": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "vincent_law_ergo_proxy": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ehrlich_von_vandembagu_d.n.angel": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yumi_oomura_chobits": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukino_miyazawa_his_and_her_circumstances": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "joel_goldschmidt_vi_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "honoka_sakurai_suzuka": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "subaru_date_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sarah_dupont_kaleido_star": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ferio_magic_knight_rayearth": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mayu_elfen_lied": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiroto_honda_yugioh!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ranma_saotome_ranma": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "asuna_kagurazaka_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takeshi_saehara_d.n.angel": {
+    "currentVersion": "A",
+    "printCount": 4,
+    "versions": {
+      "A": 4,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "irne_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kantaro_ichinomiya_tactics": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chiyo_mihama_azumanga_daioh": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyoya_ootori_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "argo_gulski_mobile_fighter_g_gundam": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "amarao_flcl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mariko_kurama_elfen_lied": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "dororo_sgt._frog": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ginji_amano_getbackers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sefuru_haruka:_beyond_the_stream_of_time_a_tale_of_the_eight_guardians": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hisui_kisaragi_tokyo_majin": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "canti_flcl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chikane_himemiya_destiny_of_the_shrine_maiden": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mikoto_minagi_my-hime": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kurei_flame_of_recca": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gal_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "maki_tokito_karin:_chibi_vampire": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mai_kawasumi_kanon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ren_tao_shaman_king": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miho_nosaka_yugioh!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "pete_pumps_skating_rink_kaleidoscope": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akito_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akira_ferrari_aria_the_animation": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gin_ichimaru_bleach": {
+    "currentVersion": "A",
+    "printCount": 5,
+    "versions": {
+      "A": 5,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kadowaki_sky_girls_ova": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tamao_suzumi_strawberry_panic": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "oniwakamaru_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sarah_adiemus_school_rumble": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miki_hashiba_suzuka": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiroki_tsujiai_ultramaniac_-_magical_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fia_gross_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chika_ito_strawberry_marshmallow": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miwako_sakurada_paradise_kiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sakurako_shina_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsuchinaga_tsuyokiss": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akari_mizunashi_aria_the_animation": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "haman_karn_mobile_suit_gundam_zz": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "bright_noa_mobile_suit_gundam_uc": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yasuna_kamizumi_girl_meets_girl": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sora_hashiba_sukisho": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "maya_bryce_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "juri_arisugawa_revolutionary_girl_utena": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yusuke_kayama_tokimeki_memorial": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyuzo_samurai_7": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuto_kigai_tsubasa:_tokyo_revelations": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shion_jujo_otoboku:_maidens_are_falling_for_me": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jean-jacques_francis_de_wardes_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 3,
+    "versions": {
+      "A": 3,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyoshiro_mibu_samurai_deeper_kyo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yamato_akitsuki_suzuka": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "taizo_kawaguchi_iriya_no_sora,_ufo_no_natsu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuko_harada_whisper_of_the_heart": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kanaria_rozen_maiden:_zurckspulen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lina_inverse_the_slayers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akane_higurashi_my-hime": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "neko-sensei_princess_tutu": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jan_valentine_hellsing": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hero_yuy_gundam_evolve": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yu_kanda_d.gray-man": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuko_asaba_iriya_no_sora,_ufo_no_natsu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "walter_c._dornez_hellsing_ultimate": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jun_manjome_yu-gi-oh!_gx": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takuma_kaburaki_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lust_fullmetal_alchemist": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "osmond_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kisa_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "azusa_hinomori_welcome_to_pia_carrot!_sayaka's_love_story": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "might_guy_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fuka_narutaki_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miki_miyama_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "uzumaki_naruto_naruto": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "michiko_takane_otoboku:_maidens_are_falling_for_me": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hiro_utsugi_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fa_yuiry_mobile_suit_zeta_gundam:_a_new_translation_i_-_heir_to_the_stars": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fena_fam_earthlight_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinobu_morita_honey_and_clover_ii": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "horohoro_shaman_king": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "d_no_hidarite_vampire_hunter_d": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gambino_berserk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kanoe_x_(tv)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "heinrich_runge_monster": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eko_hoshunin_karas": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shione_unno_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "charlotte_beatrix_marie_rhody_windam_berserk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "gilbert_durandal_mobile_suit_gundam_seed_destiny": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "haseo_.hack//g.u._returner": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "holland_novak_eureka_seven": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryuken_ishida_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "wonderweiss_margela_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shuichiro_oishi_the_prince_of_tennis": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yami_yugi_yugioh!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuki_nagato_nyoron!_churuya-san": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "harunobu_madarame_genshiken": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toshizo_hijikata_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinichi_okazaki_nana": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukio_haibara_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyoichi_horaiji_tokyo_majin": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "harry_mckenzie_school_rumble": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tenchi_masaki_tenchi_in_tokyo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rio_ultramaniac_-_magical_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kamui_shiro_x_(tv)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsutomu_yamaguchi_gokinjo_monogatari": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsukasa_kasuga_tokimeki_memorial": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sefiria_fam_earthlight_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ren_honjo_nana": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "natsue_awayuki_prtear:_the_new_legend_of_snow_white": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "genkai_yu_yu_hakusho:_ghostfiles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tamami_chanohata_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "asami_kurosaki_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kimihiro_watanuki_blood-c:_the_last_dark": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "arai_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "soichiro_nagi_tenjho_tenge": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "cagalli_yula_athha_mobile_suit_gundam_seed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aruru_utawarerumono": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "itsuki_midoriba_shuffle!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yumie_takagi_hellsing_ultimate": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eri_ninamori_flcl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "roy_mustang_fullmetal_alchemist:_brotherhood": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yafuri_chao_black_blood_brothers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miya_clochette_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "winia_chester_scrapped_princess": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tyranno_kenzan_yu-gi-oh!_gx": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suzune_asahina_suzuka": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "benio_amakusa_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "arumi_asahina_magical_shopping_arcade_abenobashi": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "enomoto_iriya_no_sora,_ufo_no_natsu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yuka_elfen_lied": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "c.c._code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shiro_amada_mobile_suit_gundam:_the_08th_ms_team_-_battle_in_three_dimensions": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yoshio_ootori_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kiba_wolf's_rain": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaede_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tetsuo_kaga_hikaru_no_go": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "enrico_maxwell_hellsing_ultimate": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sayaka_hozumi_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "enshiro_mariya_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kotoko_tsubasa_reservoir_chronicle": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "wakkun_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hakushaku_vampire_hunter_d": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shiho_tsukishima_whisper_of_the_heart": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "madoka_kugimiya_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suiginto_rozen_maiden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "clef_magic_knight_rayearth": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "satoshi_imamiya_magical_shopping_arcade_abenobashi": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jan_pu_girl_meets_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "naoya_kirihara_night_head_genesis": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kikuchiyo_samurai_7": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fujiwara_no_sai_hikaru_no_go": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "totoro_my_neighbor_totoro": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hachiemon_inuyasha": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "milly_thompson_trigun": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "satsuki_yatoji_x_(tv)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ayu_daikuji_rumbling_hearts": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hosho_takigawa_ghost_hunt": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kahoru_osaragi_girl_meets_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "oboro_utawarerumono": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takeshi_takano_brighter_than_the_dawning_blue": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "phyllo_.hack//roots": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "clod_strife_final_fantasy_vii:_advent_children": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "toshiro_hitsugaya_bleach": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "junko_aizawa_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "edo_phoenix_yu-gi-oh!_gx": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "syaoran_tsubasa_reservoir_chronicle": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mutsumi_otohime_love_hina": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kota_otoyama_stellvia_of_the_universe": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "risa_fukuyama_girls_bravo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suguru_misato_mahoromatic:_automatic_maiden": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "tsume_wolf's_rain": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eiji_kikumaru_prince_of_tennis_ii": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kirimi_nekozawa_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hatori_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "pique_princess_tutu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "pinoko_black_jack": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kenji_kobayakawa_suzuka": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hina_kamishiro_ouran_high_school_host_club": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "riko_fukamine_gift:_eternal_rainbow": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sobi_agatsuma_loveless": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "matsuri_honjo_sukisho": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akira_takano_school_rumble": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yukina_yu_yu_hakusho:_ghostfiles": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rin_tohsaka_carnival_phantasm": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinpachi_shimura_gintama": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "megumin_kono_subarashii_sekai_ni_shukufuku_wo!": {
+    "currentVersion": "A",
+    "printCount": 9,
+    "versions": {
+      "A": 9,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "eve_black_cat": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "doc_hellsing_ultimate": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rickert_berserk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ayumu_yamazaki_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "isabella_yamamoto_paradise_kiss": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "momoko_kuzuryu_sumomomo_momomo:_chijou_saikyou_no_yome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "megumi_noda_nodame_cantabile": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ayato_kamina_rahxephon": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "budokiba_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chuchu_revolutionary_girl_utena": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "shinji_mato_carnival_phantasm": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rain_mikamura_mobile_fighter_g_gundam": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "lulu_blood+": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ayumi_yamada_honey_and_clover": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "suzuka_asahina_suzuka": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "flay_allster_mobile_suit_gundam_seed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "akane_motomiya_in_a_distant_time_ova": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "koya_inukai_tokimeki_memorial": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyoji_kagami_getbackers": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "yu_minazuki_mahoraba_~heartful_days~": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hao_asakura_shaman_king": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "haro_mobile_suit_gundam_seed": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kagura_soma_fruits_basket": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ippo_makunochi_hajime_no_ippo:_the_fighting!": {
+    "currentVersion": "A",
+    "printCount": 2,
+    "versions": {
+      "A": 2,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rieko_yamato_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "hazumu_osaragi_girl_meets_girl": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "artoria_pendragon_carnival_phantasm": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mai_tokiha_my-otome": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "mayumi_shina_iriya_no_sora,_ufo_no_natsu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "oto_seibi_sky_girls": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "rei_ayanami_evangelion:_1.0_you_are_(not)_alone": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "naoyuki_asaba_iriya_no_sora,_ufo_no_natsu": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "conrad_berserk": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "medusa_carnival_phantasm": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ken_hidaka_knight_hunters": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chao_lingshen_mahou_sensei_negima!_anime_final": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kyoichi_saionji_revolutionary_girl_utena": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "aerith_gainsborogh_final_fantasy_vii:_advent_children": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "himawari_kunogi_xxxholic": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ryoma_sakamoto_peacemaker": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "nunnally_lamperoge_code_geass:_lelouch_of_the_rebellion": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "fumika_narutaki_negima!": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takako_prtear:_the_new_legend_of_snow_white": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "jiro_mochizuki_black_blood_brothers": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "saito_hiraga_the_familiar_of_zero": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "charlotte_elborne_vampire_hunter_d:_bloodlust": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "cathy_taymor_kaleido_star": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takeo_takakura_magic_user's_club!_(tv)": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "takashi_kawamura_the_prince_of_tennis": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "kaoru_kamiya_samurai_x_special": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "miku_miyama_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "ren_maka_karin:_chibi_vampire": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "chibode_croquette_mobile_fighter_g_gundam": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "heigoro_suzuki_zettai_shounen": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "koichi_zenigata_lupin_the_3rd:_blood_seal_of_the_eternal_mermaid": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "anju_maka_karin:_chibi_vampire": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "winner_sinclair_karin:_chibi_vampire": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "sanzo_genjo_saiyuki": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  },
+  "heitaro_kawara_samurai_champloo": {
+    "currentVersion": "A",
+    "printCount": 1,
+    "versions": {
+      "A": 1,
+      "B": 0,
+      "C": 0,
+      "D": 0,
+      "E": 0
+    }
+  }
+}
